@@ -1,4 +1,4 @@
 Welcome to my project
 
-Author: Rishav Thakuri
+Author: Rishav Thakuri malla
 Twitter:@rishav
